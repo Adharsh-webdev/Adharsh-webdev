@@ -17,18 +17,18 @@
 - 🌱 Currently learning **TypeScript, Next.js, Docker & AWS**
 - 🔥 Passionate about building scalable web applications
 - 🎯 Goal: Become a Software Engineer
-- 📍 Kerala, India
+- 📍 KanyaKumari,TamilNadu, India
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="http://linkedin.com/in/adharsh-j">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:adharsh7117@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
